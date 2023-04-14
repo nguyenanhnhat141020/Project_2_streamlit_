@@ -4,3 +4,4 @@ gensim
 jieba
 emoji
 demoji
+pandas-profiling
